@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-1-жилец-e",
+  "editForm": "i-i-s-1-жилец-e",
+  "external": false,
+  "caption": "Жилец",
+  "name": "IIS1ЖилецL",
+  "className": "ЖилецL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-1-жилец",
+      "modelProjection": "ЖилецL"
+    }
+  ]
+}

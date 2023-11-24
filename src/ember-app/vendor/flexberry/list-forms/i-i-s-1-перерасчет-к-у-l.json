@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-1-перерасчет-к-у-e",
+  "editForm": "i-i-s-1-перерасчет-к-у-e",
+  "external": false,
+  "caption": "Перерасчет КУ",
+  "name": "IIS1ПерерасчетКУL",
+  "className": "ПерерасчетКУL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-1-перерасчет-к-у",
+      "modelProjection": "ПерерасчетКУL"
+    }
+  ]
+}

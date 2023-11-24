@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-1-комму-услуги-e",
+  "editForm": "i-i-s-1-комму-услуги-e",
+  "external": false,
+  "caption": "Комму услуги",
+  "name": "IIS1КоммуУслугиL",
+  "className": "КоммуУслугиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-1-комму-услуги",
+      "modelProjection": "КоммуУслугиL"
+    }
+  ]
+}

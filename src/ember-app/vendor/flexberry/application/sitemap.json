@@ -1,0 +1,71 @@
+﻿{
+  "applicationCaption": "1",
+  "applicationTitle": "1",
+  "items": [
+    {
+      "link": null,
+      "menuName": "1",
+      "caption": "1",
+      "title": "1",
+      "children": [
+        {
+          "link": "i-i-s-1-должности-l",
+          "menuName": null,
+          "caption": "Должности",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-1-квитанция-l",
+          "menuName": null,
+          "caption": "Квитанция",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-1-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-1-перерасчет-к-у-l",
+          "menuName": null,
+          "caption": "Перерасчет КУ",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-1-база-данных-л-с-l",
+          "menuName": null,
+          "caption": "База данных ЛС",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-1-комму-услуги-l",
+          "menuName": null,
+          "caption": "Комму услуги",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-1-жилец-l",
+          "menuName": null,
+          "caption": "Жилец",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-1-организация-l",
+          "menuName": null,
+          "caption": "Организация",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

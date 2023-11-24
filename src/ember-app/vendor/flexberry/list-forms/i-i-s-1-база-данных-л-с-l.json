@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-1-база-данных-л-с-e",
+  "editForm": "i-i-s-1-база-данных-л-с-e",
+  "external": false,
+  "caption": "База данных ЛС",
+  "name": "IIS1БазаДанныхЛСL",
+  "className": "БазаДанныхЛСL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-1-база-данных-л-с",
+      "modelProjection": "БазаДанныхЛСL"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-1-квитанция-e",
+  "editForm": "i-i-s-1-квитанция-e",
+  "external": false,
+  "caption": "Квитанция",
+  "name": "IIS1КвитанцияL",
+  "className": "КвитанцияL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-1-квитанция",
+      "modelProjection": "КвитанцияL"
+    }
+  ]
+}

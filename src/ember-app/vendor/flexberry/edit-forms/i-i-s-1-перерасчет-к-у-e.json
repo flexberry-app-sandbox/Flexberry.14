@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Перерасчет КУ",
+  "name": "IIS1ПерерасчетКУE",
+  "className": "ПерерасчетКУE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-1-перерасчет-к-у",
+      "modelProjection": "ПерерасчетКУE"
+    }
+  ]
+}
